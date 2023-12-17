@@ -41,6 +41,11 @@ This documentation serves as a starting point, guiding you on what to learn and 
       <span class="bridge-section">High Performance Compting</span>
     </a>
   </div>
+      <div class="bridge-section-row">
+    <a href="/src/General/system_programming.html">
+      <span class="bridge-section">System Programming</span>
+    </a>
+  </div>
 </div>
 
 ### Distributed Systems

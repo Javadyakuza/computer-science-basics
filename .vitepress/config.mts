@@ -28,6 +28,10 @@ export default defineConfig({
             text: "high performance compting",
             link: "/src/General/high_performance_computing",
           },
+          {
+            text: "System Programming",
+            link: "/src/General/system_programming",
+          },
         ],
       },
     ],
