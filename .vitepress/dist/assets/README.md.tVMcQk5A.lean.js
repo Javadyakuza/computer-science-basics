@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,R as a}from"./chunks/framework.OwEraUkW.js";const _=JSON.parse('{"title":"Commuter Science basics","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),i={name:"README.md"},s=a("",8),n=[s];function r(c,l,h,d,m,u){return t(),o("div",null,n)}const b=e(i,[["render",r]]);export{_ as __pageData,b as default};

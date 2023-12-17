@@ -51,19 +51,16 @@ This documentation serves as a starting point, guiding you on what to learn and 
 ### Distributed Systems
 <div class="sections-container">
   <div class="bridge-section-row">
-    <a href="/src/basicProjectSetup.html">
-      <span class="bridge-section">Basic Project Setup</span>
+    <a href="/src/DistributedSystems/distributed_systems.html">
+      <span class="bridge-section">Distributed Systems</span>
     </a>
-    <a href="/src/lockliftConfigSetup.html">
-      <span class="bridge-section">Locklift Config Setup</span>
+    <a href="/src/DistributedSystems/distributed_computing.html">
+      <span class="bridge-section">Distributed Computing</span>
     </a>
   </div>
   <div class="bridge-section-row">
-    <a href="/src/localEnvironment.html">
-      <span class="bridge-section">Local Environment</span>
-    </a>
-    <a href="/src/deployAccount.html">
-      <span class="bridge-section">Deploy Account</span>
+    <a href="/src/DistributedSystems/distributed_networking.html">
+      <span class="bridge-section">Distributed Networks</span>
     </a>
   </div>
 </div>

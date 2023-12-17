@@ -12,6 +12,7 @@ export default defineConfig({
       { text: "Feedback", link: "https://t.me/javad_yakuzaa" },
     ],
     sidebar: [
+      { text: "Introduction", link: "/src/intro" },
       {
         text: "General Concepts",
         collapsed: false,
@@ -31,6 +32,24 @@ export default defineConfig({
           {
             text: "System Programming",
             link: "/src/General/system_programming",
+          },
+        ],
+      },
+      {
+        text: "Distributed Systems",
+        collapsed: false,
+        items: [
+          {
+            text: "Distributed Systems",
+            link: "/src/DistributedSystems/distributed_systems",
+          },
+          {
+            text: "Distributed Computing",
+            link: "/src/DistributedSystems/distributed_computing",
+          },
+          {
+            text: "Distributed Networks",
+            link: "/src/DistributedSystems/distributed_networking",
           },
         ],
       },

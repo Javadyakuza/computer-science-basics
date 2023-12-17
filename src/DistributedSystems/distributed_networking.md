@@ -1,4 +1,4 @@
-## Distributed Networking: Connecting the Nodes
+# Distributed Networking: Connecting the Nodes
 
 This revised and organized document provides a comprehensive overview of distributed networking, focusing on its key aspects and terminology.
 
@@ -37,9 +37,3 @@ Nodes in a distributed system are typically grouped into **clusters**, also refe
 * **Network Devices:** Switches, routers, and other devices help route and manage network traffic.
 * **Security:** Protecting data and ensuring secure communication is crucial for distributed systems.
 * **Redundancy:** Systems are designed with redundant components to ensure continued operation even if individual nodes fail.
-
-### Summary
-
-Distributed networking plays a critical role in enabling communication and collaboration within distributed systems. Understanding its core concepts, infrastructure, and network topologies is essential for building robust and scalable distributed applications.
-
-This revised document provides a more organized and professional structure, replacing informal terms with technical terminology and improving the overall flow of information. It also incorporates additional concepts relevant to distributed networking.
