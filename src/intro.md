@@ -68,19 +68,11 @@ This documentation serves as a starting point, guiding you on what to learn and 
 ### Data Structures and Algorithms
 <div class="sections-container">
   <div class="bridge-section-row">
-    <a href="/src/basicProjectSetup.html">
-      <span class="bridge-section">Basic Project Setup</span>
+    <a href="/src/DataStructuresAndAlgorithms/data_structures.html">
+      <span class="bridge-section">Data Structures</span>
     </a>
-    <a href="/src/lockliftConfigSetup.html">
-      <span class="bridge-section">Locklift Config Setup</span>
-    </a>
-  </div>
-  <div class="bridge-section-row">
-    <a href="/src/localEnvironment.html">
-      <span class="bridge-section">Local Environment</span>
-    </a>
-    <a href="/src/deployAccount.html">
-      <span class="bridge-section">Deploy Account</span>
+    <a href="/src/DataStructuresAndAlgorithms/algorithms.html">
+      <span class="bridge-section">Algorithms</span>
     </a>
   </div>
 </div>

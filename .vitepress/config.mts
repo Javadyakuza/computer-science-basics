@@ -53,6 +53,20 @@ export default defineConfig({
           },
         ],
       },
+      {
+        text: "Data Structure and ALgorithms ",
+        collapsed: false,
+        items: [
+          {
+            text: "Data Structures",
+            link: "/src/DataStructuresAndAlgorithms/data_structures",
+          },
+          {
+            text: "Algorithms",
+            link: "/src/DataStructuresAndAlgorithms/algorithms",
+          },
+        ],
+      },
     ],
 
     socialLinks: [
