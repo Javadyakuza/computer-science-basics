@@ -1,5 +1,7 @@
 # Commuter Science basics
 
+[Deployed version](https://computer-science-basics-desktop-javadyakuza.vercel.app)
+
 ## CS basics for those who haven't gone to college !!
 
 This documentation will provide the the basic concepts of the computer science such as:
