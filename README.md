@@ -1,6 +1,6 @@
 # Commuter Science basics
 
-[Deployed version](https://computer-science-basics-desktop-javadyakuza.vercel.app)
+[Deployed version](https://computer-science-basics.vercel.app/)
 
 ## CS basics for those who haven't gone to college !!
 
