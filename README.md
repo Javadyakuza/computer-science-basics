@@ -19,5 +19,8 @@ This documentation is provided for to give a starting point to the user and does
 
 ## Contribution
 
-Professional developer and experts are very allowed and welcomed to mention any mis understandings or add any additional information to the documentation though the pull requests or issues section.
+> Dev's !
+
+> you are welcomed to mention any mistakes as a issue or add any additional information to the documentation as a PR.
+
 
