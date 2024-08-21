@@ -67,6 +67,17 @@ export default defineConfig({
           },
         ],
       },
+      {
+        text: "Design Patterns",
+        collapsed: false,
+        link: "/src/DesignPatterns/intro",
+        items: [
+          {
+            text: "Singleton",
+            link: "/src/DesignPatterns/Singleton",
+          },
+        ],
+      },
     ],
 
     socialLinks: [
