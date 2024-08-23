@@ -61,5 +61,10 @@ class ConcreteObjType implements MainInterface{
         console.log(`State: ${this.property}`);
   }
 }
+
+let object1 = ConcreteObjType("lorem ipsum");
+
+let object2 = object1.clone();
+
 ```
 :::
