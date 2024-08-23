@@ -1,4 +1,9 @@
-# What is the Singleton Pattern?
+<div style="display: flex; align-items: center;">
+  <h1 style="margin: 0; font-size: 24px;">What is the Singleton Pattern?</h1>
+  <div style="border: 1px solid var(--vp-c-brand-1); border-radius: 15px; background-color: transparent; color: var(--vp-c-brand-1); padding: 5px 10px; display: inline-block; font-size: 14px; margin-left: 10px;">
+    Creational
+  </div>
+</div>
 
 The Singleton design pattern is used when a program needs exactly one instance of a class throughout the entire program. This pattern provides a global access point to that instance, allowing it to be shared across different sections of the program.
 

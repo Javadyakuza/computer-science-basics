@@ -1,5 +1,9 @@
-# What is the Prototype Pattern?
-<div style = "" > Creational </div>
+<div style="display: flex; align-items: center;">
+  <h1 style="margin: 0; font-size: 24px;">What is the Prototype Pattern?</h1>
+  <div style="border: 1px solid var(--vp-c-brand-1); border-radius: 15px; background-color: transparent; color: var(--vp-c-brand-1); padding: 5px 10px; display: inline-block; font-size: 14px; margin-left: 10px;">
+    Creational
+  </div>
+</div>
 
 The **Prototype Pattern** is a design pattern used to create new objects by copying an existing object, known as the prototype. It is particularly useful when the creation of a new object is resource-intensive or complex, and when you want to avoid the overhead and complexity of initializing an object from scratch.
 
@@ -27,9 +31,13 @@ The Prototype Pattern is particularly useful in the following scenarios:
 
 ## Code Samples
 
-### Rust
+::: details Rust
 
 > this pattern is less useful in rust programming language, so we don't provide any code sample at this part to avoid any misunderstanding
+
+:::
+
+
 
 ::: details TypeScript
 
