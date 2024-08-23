@@ -76,6 +76,10 @@ export default defineConfig({
             text: "Singleton",
             link: "/src/DesignPatterns/Singleton",
           },
+          {
+            text: "Prototype",
+            link: "/src/DesignPatterns/Prototype",
+          },
         ],
       },
     ],

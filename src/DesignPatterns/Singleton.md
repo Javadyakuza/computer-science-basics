@@ -22,7 +22,7 @@ The point of this approach is to maintain a consistent shared state across the a
 
 ## Code Samples
 
-### Rust
+::: details Rust
 
 > Rust natively doesn't support class creation but this pattern is implementable using another approach.
 
@@ -73,7 +73,10 @@ impl SingletonStruct {
 }
 
 ```
-### TypeScript
+
+:::
+
+::: details TypeScript
 
 ``` typescript 
 class SingletonClass {
@@ -101,3 +104,4 @@ class SingletonClass {
     }
 }
 ```
+:::
