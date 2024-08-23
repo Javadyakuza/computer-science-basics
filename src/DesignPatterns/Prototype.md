@@ -33,7 +33,7 @@ The Prototype Pattern is particularly useful in the following scenarios:
 
 ::: details Rust
 
-> this pattern is less useful in rust programming language, so we don't provide any code sample at this part to avoid any misunderstanding
+> this pattern is less useful in rust programming language, so we don't provide any code sample at this part to avoid any misunderstanding's.
 
 :::
 
