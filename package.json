@@ -14,5 +14,8 @@
   "license": "ISC",
   "devDependencies": {
     "vitepress": "^1.0.0-rc.32"
+  },
+  "dependencies": {
+    "vercel": "^37.1.0"
   }
 }
