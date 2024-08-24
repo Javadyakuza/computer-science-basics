@@ -80,6 +80,10 @@ export default defineConfig({
             text: "Prototype",
             link: "/src/DesignPatterns/Prototype",
           },
+          {
+            text: "Builder",
+            link: "/src/DesignPatterns/Builder",
+          },
         ],
       },
     ],
