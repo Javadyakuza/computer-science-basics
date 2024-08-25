@@ -71,19 +71,50 @@ export default defineConfig({
         text: "Design Patterns",
         collapsed: false,
         link: "/src/DesignPatterns/intro",
+
         items: [
           {
-            text: "Singleton",
-            link: "/src/DesignPatterns/Singleton",
+            text: "Creational",
+            collapsed: false,
+            items: [
+              {
+                text: "Singleton",
+                link: "/src/DesignPatterns/Singleton",
+              },
+              {
+                text: "Prototype",
+                link: "/src/DesignPatterns/Prototype",
+              },
+              {
+                text: "Builder",
+                link: "/src/DesignPatterns/Builder",
+              },
+            ],
+            
           },
           {
-            text: "Prototype",
-            link: "/src/DesignPatterns/Prototype",
+            text: "Structural",
+            collapsed: false,
+            items: [
+              {
+                text: "Test Pattern",
+                // link: "/src/DesignPatterns/intro",
+              },
+            ],
+            
           },
           {
-            text: "Builder",
-            link: "/src/DesignPatterns/Builder",
+            text: "Behavioral",
+            collapsed: false,
+            items: [
+              {
+                text: "Test Pattern",
+                // link: "/src/DesignPatterns/intro",
+              },
+            ],
+            
           },
+
         ],
       },
     ],
