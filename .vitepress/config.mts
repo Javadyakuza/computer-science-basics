@@ -89,6 +89,10 @@ export default defineConfig({
                 text: "Builder",
                 link: "/src/DesignPatterns/Builder",
               },
+              {
+                text: "Factory",
+                link: "/src/DesignPatterns/Factory",
+              },
             ],
             
           },
