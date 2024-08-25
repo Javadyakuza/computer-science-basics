@@ -11,6 +11,7 @@ This documentation will provide the the basic concepts of the computer science s
 - HPC's and LPC's
 - Memory and Memory Management Concept and Strategies
 - Database Systems
+- Design patterns
 - etc
 
 
