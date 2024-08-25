@@ -78,7 +78,7 @@ This documentation serves as a starting point, guiding you on what to learn and 
 </div>
 
 
-### Data Structures and Algorithms
+### Design Patterns
 <div class="sections-container">
   <div class="bridge-section-row">
     <a href="/src/DesignPatterns/intro.html">
