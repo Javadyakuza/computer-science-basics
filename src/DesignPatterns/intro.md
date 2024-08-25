@@ -11,23 +11,25 @@ Each pattern is represented on a different page, and the structure of each page 
   - TypeScript
 
 ## Covered design patterns 
-
-- Singleton
-- Prototype
-- Builder
-- Factory
-- Facade
-- Proxy
-- Iterator
-- Observer
-- Mediator
-- State
-- Adapter
-- Strategy
-- Decorator
-- Chain of Responsibility
-- Template
-- Flyweight
-- Command
-- Composite
-- Bridge
+- Creational
+  - Singleton
+  - Prototype
+  - Builder
+  - Factory
+- Structural
+  - Facade
+  - Proxy
+  - Adapter
+  - Decorator
+  - Flyweight
+  - Composite
+  - Bridge
+- Structural
+  - Chain of Responsibility
+  - Iterator
+  - Observer
+  - Mediator
+  - State
+  - Strategy
+  - Template
+  - Command
