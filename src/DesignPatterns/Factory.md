@@ -99,6 +99,64 @@ fn main() {
 ::: details TypeScript
 
 ``` typescript 
+// Define the Tool enum
+enum Tool {
+    Shovel = "Shovel",
+    Crane = "Crane"
+}
+
+// Define the Work interface
+interface Work {
+    work(): void;
+}
+
+// Define the SimpleWorker class
+class SimpleWorker implements Work {
+    energy: number;
+    power: number;
+
+    constructor(energy: number, power: number) {
+        this.energy = energy;
+        this.power = power;
+    }
+
+    work(): void {
+        console.log("Simple worker is working ...");
+    }
+}
+
+// Define the AdvancedWorker class
+class AdvancedWorker implements Work {
+    energy: number;
+    power: number;
+    tool: Tool;
+
+    constructor(energy: number, power: number, tool: Tool) {
+        this.energy = energy;
+        this.power = power;
+        this.tool = tool;
+    }
+
+    work(): void {
+        console.log("Advanced worker is working ...");
+    }
+}
+
+// Define the factory function
+function factory(workerType: string): Work {
+    switch (workerType) {
+        case "advanced":
+            return new AdvancedWorker(100, 100, Tool.Shovel);
+        case "simple":
+            return new SimpleWorker(100, 100);
+        default:
+            throw new Error("No correct options provided!");
+    }
+}
+
+// Usage example
+const worker = factory("simple");
+worker.work();
 
 ```
 :::
