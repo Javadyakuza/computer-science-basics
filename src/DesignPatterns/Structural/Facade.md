@@ -78,6 +78,40 @@ fn main() {
 
 ``` typescript 
 
+function complexTask1(): void {
+    console.log("Executing complex task one...");
+}
+
+function complexTask2(): void {
+    console.log("Executing complex task two...");
+}
+
+function complexTask3(): void {
+    console.log("Executing complex task three...");
+}
+
+// Facade class
+class TaskFacade {
+    public performSimpleTask(): void {
+        complexTask1();
+    }
+
+    public performCompoundTask(): void {
+        complexTask1();
+        complexTask2();
+    }
+
+    public performAllTasks(): void {
+        complexTask1();
+        complexTask2();
+        complexTask3();
+    }
+}
+
+const facade = new TaskFacade();
+facade.performSimpleTask();
+facade.performCompoundTask();
+facade.performAllTasks();
 
 ```
 :::
