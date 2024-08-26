@@ -31,32 +31,44 @@ Initializing this pattern is straightforward: you need a set of complex objects 
 > Rust natively doesn't support class creation but this pattern is implementable using another approach.
 
 ``` rust
-fn execute_task_1() {
-    println!("Executing task one...");
+fn complex_task_1() {
+    println!("Executing complex task one...");
 }
 
-fn execute_task_2() {
-    println!("Executing task two...");
+fn complex_task_2() {
+    println!("Executing complex task two...");
 }
 
-pub struct TaskHandler;
+fn complex_task_3() {
+    println!("Executing complex task three...");
+}
 
-impl TaskHandler {
-    pub fn perform_basic_task(&self) {
-        execute_task_1();
+pub struct TaskFacade;
+
+impl TaskFacade {
+    pub fn perform_simple_task(&self) {
+        complex_task_1();
     }
 
-    pub fn perform_advanced_tasks(&self) {
-        execute_task_1();
-        execute_task_2();
+    pub fn perform_compound_task(&self) {
+        complex_task_1();
+        complex_task_2();
+    }
+
+    pub fn perform_all_tasks(&self) {
+        complex_task_1();
+        complex_task_2();
+        complex_task_3();
     }
 }
 
 fn main() {
-    let handler = TaskHandler;
-    handler.perform_basic_task();
-    handler.perform_advanced_tasks();
+    let facade = TaskFacade;
+    facade.perform_simple_task();
+    facade.perform_compound_task();
+    facade.perform_all_tasks();
 }
+
 
 ```
 
