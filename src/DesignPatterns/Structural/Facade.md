@@ -18,11 +18,11 @@ Initializing this pattern is straightforward: you need a set of complex objects 
 
 ## Use Cases & Point of Approach
 
-- Providing ease of use for the end user
-- Cleaner and more maintainable code
-- Usable and refactorable code
-- Hiding implementation details from the user
-- Reducing dependencies between subsystems
+- **Providing ease of use for the end user**
+- **Cleaner and more maintainable code**
+- **Usable and refactorable code**
+- **Hiding implementation details from the user**
+- **Reducing dependencies between subsystems**
 
 ## Code Samples
 

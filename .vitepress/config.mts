@@ -101,8 +101,8 @@ export default defineConfig({
             collapsed: false,
             items: [
               {
-                text: "Test Pattern",
-                // link: "/src/DesignPatterns/intro",
+                text: "Facade",
+                link: "/src/DesignPatterns/Structural/Facade",
               },
             ],
             
