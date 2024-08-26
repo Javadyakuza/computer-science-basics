@@ -79,19 +79,19 @@ export default defineConfig({
             items: [
               {
                 text: "Singleton",
-                link: "/src/DesignPatterns/Singleton",
+                link: "/src/DesignPatterns/Creational/Singleton",
               },
               {
                 text: "Prototype",
-                link: "/src/DesignPatterns/Prototype",
+                link: "/src/DesignPatterns/Creational/Prototype",
               },
               {
                 text: "Builder",
-                link: "/src/DesignPatterns/Builder",
+                link: "/src/DesignPatterns/Creational/Builder",
               },
               {
                 text: "Factory",
-                link: "/src/DesignPatterns/Factory",
+                link: "/src/DesignPatterns/Creational/Factory",
               },
             ],
             
