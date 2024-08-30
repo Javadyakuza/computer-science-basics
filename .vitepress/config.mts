@@ -104,6 +104,10 @@ export default defineConfig({
                 text: "Facade",
                 link: "/src/DesignPatterns/Structural/Facade",
               },
+              {
+                text: "Proxy",
+                link: "/src/DesignPatterns/Structural/Proxy",
+              },
             ],
             
           },
