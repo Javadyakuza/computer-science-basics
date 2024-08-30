@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-  <h1 style="margin: 0; font-size: 24px;">What is the Facede Pattern?</h1>
+  <h1 style="margin: 0; font-size: 24px;">What is the Facade Pattern?</h1>
   <div style="border: 1px solid var(--vp-c-brand-1); border-radius: 15px; background-color: transparent; color: var(--vp-c-brand-1); padding: 5px 10px; display: inline-block; font-size: 14px; margin-left: 10px;">
     Structural
   </div>
