@@ -120,7 +120,7 @@ export default defineConfig({
                 link: "/src/dp/behavioral/iterator",
               },
               {
-                text: "db",
+                text: "observer",
                 link: "/src/dp/behavioral/observer",
               },
             ],
