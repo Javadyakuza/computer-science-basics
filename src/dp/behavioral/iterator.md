@@ -32,8 +32,6 @@ The Iterator pattern is primarily used to create traversal methods for types tha
 
 ::: details Rust
 
-> Rust natively doesn't support class creation but this pattern is implementable using another approach.
-
 ``` rust
 // The collection type
 struct MyCollection {

@@ -119,6 +119,10 @@ export default defineConfig({
                 text: "Iterator",
                 link: "/src/dp/behavioral/iterator",
               },
+              {
+                text: "db",
+                link: "/src/dp/behavioral/observer",
+              },
             ],
             
           },
