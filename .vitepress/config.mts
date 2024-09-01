@@ -17,21 +17,21 @@ export default defineConfig({
         text: "General Concepts",
         collapsed: false,
         items: [
-          { text: "Operating Systems", link: "/src/General/os" },
+          { text: "Operating Systems", link: "/src/general/os" },
           {
             text: "Compilers and Interpreters",
-            link: "/src/General/compilers_and_interpreters",
+            link: "/src/general/compilers",
           },
-          { text: "Memory", link: "/src/General/memories" },
-          { text: "Memory Management", link: "/src/General/memory_management" },
-          { text: "Database Systems", link: "/src/General/database_systems" },
+          { text: "Memory", link: "/src/general/memories" },
+          { text: "Memory Management", link: "/src/general/mem_mgmt" },
+          { text: "Database Systems", link: "/src/general/database" },
           {
             text: "high performance compting",
-            link: "/src/General/high_performance_computing",
+            link: "/src/general/hpc",
           },
           {
             text: "System Programming",
-            link: "/src/General/system_programming",
+            link: "/src/general/sys_prog",
           },
         ],
       },
@@ -41,15 +41,15 @@ export default defineConfig({
         items: [
           {
             text: "Distributed Systems",
-            link: "/src/DistributedSystems/distributed_systems",
+            link: "/src/dist_sys/systems",
           },
           {
             text: "Distributed Computing",
-            link: "/src/DistributedSystems/distributed_computing",
+            link: "/src/dist_sys/computing",
           },
           {
             text: "Distributed Networks",
-            link: "/src/DistributedSystems/distributed_networking",
+            link: "/src/dist_sys/networking",
           },
         ],
       },
@@ -59,18 +59,18 @@ export default defineConfig({
         items: [
           {
             text: "Data Structures",
-            link: "/src/DataStructuresAndAlgorithms/data_structures",
+            link: "/src/dsa/ds",
           },
           {
             text: "Algorithms",
-            link: "/src/DataStructuresAndAlgorithms/algorithms",
+            link: "/src/dsa/algorithms",
           },
         ],
       },
       {
         text: "Design Patterns",
         collapsed: false,
-        link: "/src/DesignPatterns/intro",
+        link: "/src/dp/intro",
 
         items: [
           {
@@ -79,19 +79,19 @@ export default defineConfig({
             items: [
               {
                 text: "Singleton",
-                link: "/src/DesignPatterns/Creational/Singleton",
+                link: "/src/dp/creational/singleton",
               },
               {
                 text: "Prototype",
-                link: "/src/DesignPatterns/Creational/Prototype",
+                link: "/src/dp/creational/prototype",
               },
               {
                 text: "Builder",
-                link: "/src/DesignPatterns/Creational/Builder",
+                link: "/src/dp/creational/builder",
               },
               {
                 text: "Factory",
-                link: "/src/DesignPatterns/Creational/Factory",
+                link: "/src/dp/creational/factory",
               },
             ],
             
@@ -102,11 +102,11 @@ export default defineConfig({
             items: [
               {
                 text: "Facade",
-                link: "/src/DesignPatterns/Structural/Facade",
+                link: "/src/dp/structural/facade",
               },
               {
                 text: "Proxy",
-                link: "/src/DesignPatterns/Structural/Proxy",
+                link: "/src/dp/structural/proxy",
               },
             ],
             
@@ -117,7 +117,7 @@ export default defineConfig({
             items: [
               {
                 text: "Iterator",
-                link: "/src/DesignPatterns/Behavioral/Iterator",
+                link: "/src/dp/behavioral/iterator",
               },
             ],
             
