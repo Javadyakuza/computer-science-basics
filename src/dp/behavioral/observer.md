@@ -7,7 +7,7 @@
 
 The Observer Pattern is a design pattern that establishes a one-to-many relationship between a subject and multiple observers (or listeners). When the subject's state changes, all registered observers are notified and can react accordingly.
 
-### Human Description
+## Humanly Described
 
 Think of it like a speaker at a conference with many listeners. The Observer Pattern sets up a sender (the subject) and multiple receivers (the observers) who act based on predefined rules when the sender updates.
 

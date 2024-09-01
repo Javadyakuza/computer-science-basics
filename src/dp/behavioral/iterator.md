@@ -8,7 +8,7 @@
 
 The Iterator design pattern allows different types of collections, such as custom data structures and arrays, to be traversed by implementing custom iteration methods.
 
-## Human Description
+## Humanly Described
 
 In simple terms, this pattern enables a collection, typically accessed by element index, to have custom methods for accessing the next element, checking if there are more elements, reverse traversal, setting flags, onChange handlers for specific indices, and more.
 
