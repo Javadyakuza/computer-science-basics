@@ -116,8 +116,8 @@ export default defineConfig({
             collapsed: false,
             items: [
               {
-                text: "Test Pattern",
-                // link: "/src/DesignPatterns/intro",
+                text: "iterator",
+                link: "/src/DesignPatterns/Behavioral/Iterator",
               },
             ],
             
