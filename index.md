@@ -13,7 +13,9 @@ hero:
     - theme: brand
       text: Blockchain Concepts
       link: /src/blockchain/intro
-
+    - theme: brand
+      text: Rust Techniques
+      link: /src/rust/intro
     
 # features:
 #   - title: Feature A
