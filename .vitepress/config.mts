@@ -123,6 +123,10 @@ export default defineConfig({
                 text: "observer",
                 link: "/src/dp/behavioral/observer",
               },
+              {
+                text: "mediator",
+                link: "/src/dp/behavioral/mediator",
+              },
             ],
             
           },
