@@ -12,26 +12,26 @@ export default defineConfig({
       { text: "Feedback", link: "https://t.me/javad_yakuzaa" },
     ],
     sidebar: [
-      { text: "Introduction", link: "/src/intro" },
+      { text: "Introduction", link: "/src/cs/intro" },
       {
         text: "General Concepts",
         collapsed: false,
         items: [
-          { text: "Operating Systems", link: "/src/general/os" },
+          { text: "Operating Systems", link: "/src/cs/general/os" },
           {
             text: "Compilers and Interpreters",
-            link: "/src/general/compilers",
+            link: "/src/cs/general/compilers",
           },
-          { text: "Memory", link: "/src/general/memories" },
-          { text: "Memory Management", link: "/src/general/mem_mgmt" },
-          { text: "Database Systems", link: "/src/general/database" },
+          { text: "Memory", link: "/src/cs/general/memories" },
+          { text: "Memory Management", link: "/src/cs/general/mem_mgmt" },
+          { text: "Database Systems", link: "/src/cs/general/database" },
           {
             text: "high performance compting",
-            link: "/src/general/hpc",
+            link: "/src/cs/general/hpc",
           },
           {
             text: "System Programming",
-            link: "/src/general/sys_prog",
+            link: "/src/cs/general/sys_prog",
           },
         ],
       },
@@ -41,15 +41,15 @@ export default defineConfig({
         items: [
           {
             text: "Distributed Systems",
-            link: "/src/dist_sys/systems",
+            link: "/src/cs/dist_sys/systems",
           },
           {
             text: "Distributed Computing",
-            link: "/src/dist_sys/computing",
+            link: "/src/cs/dist_sys/computing",
           },
           {
             text: "Distributed Networks",
-            link: "/src/dist_sys/networking",
+            link: "/src/cs/dist_sys/networking",
           },
         ],
       },
@@ -59,18 +59,18 @@ export default defineConfig({
         items: [
           {
             text: "Data Structures",
-            link: "/src/dsa/ds",
+            link: "/src/cs/dsa/ds",
           },
           {
             text: "Algorithms",
-            link: "/src/dsa/algorithms",
+            link: "/src/cs/dsa/algorithms",
           },
         ],
       },
       {
         text: "Design Patterns",
         collapsed: false,
-        link: "/src/dp/intro",
+        link: "/src/cs/dp/intro",
 
         items: [
           {
@@ -79,19 +79,19 @@ export default defineConfig({
             items: [
               {
                 text: "Singleton",
-                link: "/src/dp/creational/singleton",
+                link: "/src/cs/dp/creational/singleton",
               },
               {
                 text: "Prototype",
-                link: "/src/dp/creational/prototype",
+                link: "/src/cs/dp/creational/prototype",
               },
               {
                 text: "Builder",
-                link: "/src/dp/creational/builder",
+                link: "/src/cs/dp/creational/builder",
               },
               {
                 text: "Factory",
-                link: "/src/dp/creational/factory",
+                link: "/src/cs/dp/creational/factory",
               },
             ],
             
@@ -102,11 +102,11 @@ export default defineConfig({
             items: [
               {
                 text: "Facade",
-                link: "/src/dp/structural/facade",
+                link: "/src/cs/dp/structural/facade",
               },
               {
                 text: "Proxy",
-                link: "/src/dp/structural/proxy",
+                link: "/src/cs/dp/structural/proxy",
               },
             ],
             
@@ -117,15 +117,15 @@ export default defineConfig({
             items: [
               {
                 text: "Iterator",
-                link: "/src/dp/behavioral/iterator",
+                link: "/src/cs/dp/behavioral/iterator",
               },
               {
                 text: "observer",
-                link: "/src/dp/behavioral/observer",
+                link: "/src/cs/dp/behavioral/observer",
               },
               {
                 text: "mediator",
-                link: "/src/dp/behavioral/mediator",
+                link: "/src/cs/dp/behavioral/mediator",
               },
             ],
             

@@ -17,32 +17,32 @@ This documentation serves as a starting point, guiding you on what to learn and 
 ### General Concepts
 <div class="sections-container">
   <div class="bridge-section-row">
-    <a href="/src/general/os.html">
+    <a href="/src/cs/general/os.html">
       <span class="bridge-section">Operating Systems</span>
     </a>
-        <a href="/src/general/compilers.html">
+        <a href="/src/cs/general/compilers.html">
       <span class="bridge-section">Compilers and Interpreters</span>
     </a>
 
   </div>
   <div class="bridge-section-row">
-      <a href="/src/general/memories.html">
+      <a href="/src/cs/general/memories.html">
       <span class="bridge-section">Memory</span>
     </a>
-    <a href="/src/general/mem_mgmt.html">
+    <a href="/src/cs/general/mem_mgmt.html">
       <span class="bridge-section">Memory Management</span>
     </a>
   </div>
     <div class="bridge-section-row">
-    <a href="/src/general/database.html">
+    <a href="/src/cs/general/database.html">
       <span class="bridge-section">Database Systems</span>
     </a>
-    <a href="/src/general/hpc.html">
+    <a href="/src/cs/general/hpc.html">
       <span class="bridge-section">High Performance Compting</span>
     </a>
   </div>
       <div class="bridge-section-row">
-    <a href="/src/general/sys_prog.html">
+    <a href="/src/cs/general/sys_prog.html">
       <span class="bridge-section">System Programming</span>
     </a>
   </div>
@@ -51,15 +51,15 @@ This documentation serves as a starting point, guiding you on what to learn and 
 ### Distributed Systems
 <div class="sections-container">
   <div class="bridge-section-row">
-    <a href="/src/dist_sys/systems.html">
+    <a href="/src/cs/dist_sys/systems.html">
       <span class="bridge-section">Distributed Systems</span>
     </a>
-    <a href="/src/dist_sys/computing.html">
+    <a href="/src/cs/dist_sys/computing.html">
       <span class="bridge-section">Distributed Computing</span>
     </a>
   </div>
   <div class="bridge-section-row">
-    <a href="/src/dist_sys/networking.html">
+    <a href="/src/cs/dist_sys/networking.html">
       <span class="bridge-section">Distributed Networks</span>
     </a>
   </div>
@@ -68,10 +68,10 @@ This documentation serves as a starting point, guiding you on what to learn and 
 ### Data Structures and Algorithms
 <div class="sections-container">
   <div class="bridge-section-row">
-    <a href="/src/dsa/ds.html">
+    <a href="/src/cs/dsa/ds.html">
       <span class="bridge-section">Data Structures</span>
     </a>
-    <a href="/src/dsa/algorithms.html">
+    <a href="/src/cs/dsa/algorithms.html">
       <span class="bridge-section">Algorithms</span>
     </a>
   </div>
@@ -81,7 +81,7 @@ This documentation serves as a starting point, guiding you on what to learn and 
 ### Design Patterns
 <div class="sections-container">
   <div class="bridge-section-row">
-    <a href="/src/dp/intro.html">
+    <a href="/src/cs/dp/intro.html">
       <span class="bridge-section">Design Patterns</span>
     </a>
   </div>

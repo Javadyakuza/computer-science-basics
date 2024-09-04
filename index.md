@@ -8,8 +8,8 @@ hero:
   tagline: By Mohammad Javad Safary
   actions:
     - theme: brand
-      text: Explore Content
-      link: /src/intro
+      text: CS Basics
+      link: /src/cs/intro
     - theme: brand
       text: Blockchain Concepts
       link: /src/blockchain/intro
