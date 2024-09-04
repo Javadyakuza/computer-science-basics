@@ -127,24 +127,3 @@ user2.send("Hi, Alice!");
 
 ```
 :::
-
-What is the Mediator Design Pattern?
-
-
-Simple Explanation
-
-Think of Airbnb: it serves as an intermediary between customers and homeowners, coordinating details like dates, pricing, and more to provide a seamless service.
-Implementation Overview
-
-This behavioral pattern involves two modules on either side, with a middleware component coordinating their interactions.
-Use Cases
-
-    Simplifies complex code
-    Enhances code manageability and maintainability
-    Improved modularity
-    Reduced dependencies
-    Centralized control
-
-Approach
-
-This pattern is ideal when one side cannot fully trust the service provider or wants to avoid dealing with complex configurations. It can be combined with the Facade design pattern to offer a user-friendly interface, making the service easier to use and understand without deep knowledge of the underlying system.
