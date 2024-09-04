@@ -10,7 +10,11 @@ hero:
     - theme: brand
       text: Explore Content
       link: /src/intro
+    - theme: brand
+      text: Blockchain Concepts
+      link: /src/blockchain/intro
 
+    
 # features:
 #   - title: Feature A
 #     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
