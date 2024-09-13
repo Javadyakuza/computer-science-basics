@@ -2,7 +2,8 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+  head: [["link", { rel: "icon", href: "/favicon.ico" }]],
+  mpa: true,
   title: "Computer Science Basics",
   description:
     "A basic explanation of the CS basics for those who haven't gone to college.",
@@ -95,7 +96,6 @@ export default defineConfig({
                 link: "/src/cs/dp/creational/factory",
               },
             ],
-            
           },
           {
             text: "Structural",
@@ -110,7 +110,6 @@ export default defineConfig({
                 link: "/src/cs/dp/structural/proxy",
               },
             ],
-            
           },
           {
             text: "Behavioral",
@@ -133,9 +132,7 @@ export default defineConfig({
                 link: "/src/cs/dp/behavioral/state",
               },
             ],
-            
           },
-
         ],
       },
     ],
