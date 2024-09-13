@@ -127,6 +127,10 @@ export default defineConfig({
                 text: "mediator",
                 link: "/src/cs/dp/behavioral/mediator",
               },
+              {
+                text: "state",
+                link: "/src/cs/dp/behavioral/state",
+              },
             ],
             
           },
