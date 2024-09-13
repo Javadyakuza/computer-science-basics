@@ -143,10 +143,11 @@ export default defineConfig({
 
       {
         text: "Rust Techniques",
+        collapsed: false,
         link: "/src/rust/intro",
         items: [
           {
-            text: "Rust Techniques",
+            text: "Simple Async",
             link: "/src/rust/async",
           },
         ],
