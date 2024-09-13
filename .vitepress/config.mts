@@ -3,7 +3,6 @@ import { defineConfig } from "vitepress";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   head: [["link", { rel: "icon", href: "/favicon.ico" }]],
-  mpa: true,
   title: "Computer Science Basics",
   description:
     "A basic explanation of the CS basics for those who haven't gone to college.",

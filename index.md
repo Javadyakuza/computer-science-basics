@@ -26,9 +26,5 @@ hero:
 #     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
-<script >
-document.querySelector('body').addEventListener('click', () => {
-  console.log('client side JavaScript!')
-})
-</script>
+
 
