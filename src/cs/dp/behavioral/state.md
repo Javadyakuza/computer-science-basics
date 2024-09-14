@@ -107,12 +107,11 @@ fn main() {
     println!("Initial state: {:?}", media_player.current_state);
 
     // Transition from Playing to Paused
-    media_player.current_state.action(&mut media_player);
+    media_player.clone().current_state.action(&mut media_player);
     println!("After first transition: {:?}", media_player.current_state);
 
-    // Clone the player and transition again
-    let media_player_clone = media_player.clone();
-    media_player_clone.current_state.action(&mut media_player);
+
+    media_player.clone().current_state.action(&mut media_player);
     println!("After second transition: {:?}", media_player.current_state);
 }
 
