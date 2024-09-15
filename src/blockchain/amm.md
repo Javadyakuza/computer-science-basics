@@ -12,7 +12,7 @@ There are several types of AMMs. Below, we will cover four of the most popular a
 ## 1. Constant Product Market Maker (CPMM)
 
 **Algorithm:**  
-\( X \times Y = K \)  
+X * Y = K  
 
 **Description:**  
 This method ensures that the product of two assets in a liquidity pool remains constant. When the supply of one asset decreases, the price of the other increases to maintain the equation.  
@@ -30,7 +30,7 @@ This method ensures that the product of two assets in a liquidity pool remains c
 ## 2. Constant Sum Market Maker (CSMM)
 
 **Algorithm:**  
-\( X + Y = K \)  
+X + Y = K  
 
 **Description:**  
 This method ensures that the sum of two assets in the pool always remains constant, making it particularly useful for stablecoins where price volatility is minimal.  
@@ -47,7 +47,7 @@ This method ensures that the sum of two assets in the pool always remains consta
 ## 3. Constant Ratio Market Maker (CRMM)
 
 **Algorithm:**  
-\( X^k \times Y^{(1-k)} = Z \)  
+X^k * Y^{(1-k)} = Z 
 
 **Description:**  
 This method ensures that the ratio between two assets remains constant. For example, if the pool is set to always have 1 A token for every 2 B tokens, this ratio is maintained regardless of trades.  
@@ -65,7 +65,7 @@ This method ensures that the ratio between two assets remains constant. For exam
 ## 4. Constant Mean Market Maker (CMMM)
 
 **Algorithm:**  
-\( (X^k \times ... \times Y^{(1-k)}) = Z \)  
+(X^k * ... * Y^{(1-k)}) = Z   
 
 **Description:**  
 This is an extended version of the CRMM, designed for pools with multiple assets. It maintains a constant ratio across all assets in the pool.  

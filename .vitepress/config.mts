@@ -152,6 +152,17 @@ export default defineConfig({
           },
         ],
       },
+      {
+        text: "Blockchain Concepts",
+        collapsed: false,
+        link: "/src/rust/intro",
+        items: [
+          {
+            text: "AMM's",
+            link: "/src/blockchain/amm",
+          },
+        ],
+      },
     ],
 
     socialLinks: [
