@@ -16,7 +16,9 @@ hero:
     - theme: brand
       text: Rust Techniques
       link: /src/rust/intro
-    
+    - theme: brand
+      text: Cool Stuff
+      link: /src/cool_stuff/intro
 # features:
 #   - title: Feature A
 #     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
