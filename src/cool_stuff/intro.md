@@ -8,10 +8,10 @@ This category actually just contains some cool persona projects and experiences 
 <br/>
 <br/>
 
-<img src="/robo1.png" alt="Description of GIF" style="width: 10rem; display: inline;"/>
+<img src="/robo1.png" alt="Description of GIF" style="width: 10rem; display: inline; margin: 5px;"/>
 
-<img src="/robo2.png" alt="Description of GIF" style="width:10rem; display: inline;"/>
+<img src="/robo2.png" alt="Description of GIF" style="width:10rem; display: inline; margin: 5px;"/>
 
-<img src="/robo3.png" alt="Description of GIF" style="width:10rem; display: inline;"/>
+<img src="/robo3.png" alt="Description of GIF" style="width:10rem; display: inline; margin: 5px;"/>
 
-<img src="/robo4.png" alt="Description of GIF" style="width:10rem; display: inline;"/>
+<img src="/robo4.png" alt="Description of GIF" style="width:10rem; display: inline; margin: 5px;"/>

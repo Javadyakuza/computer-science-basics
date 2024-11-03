@@ -46,6 +46,6 @@ We use a three step solution:
 When ever you were getting distracted just imagine that you are being slapped by someone that is your boss, he is just slapping you and yelling at you get back to work.
 
 
-... info
-
-...
+::: info
+[Next Step Project](https://aquamarine-abigale-97.tiiny.site/)
+:::
