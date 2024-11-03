@@ -163,6 +163,17 @@ export default defineConfig({
           },
         ],
       },
+      {
+        text: "Cool Stuff",
+        collapsed: false,
+        link: "/src/cool_stuff/intro",
+        items: [
+          {
+            text: "ADHD Controller",
+            link: "/src/cool_stuff/next_step",
+          },
+        ],
+      },
     ],
 
     socialLinks: [
