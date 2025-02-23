@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Computer Science Basics"
   text: "CS basics for those who haven't gone to college !!"
-  tagline: By Mohammad Javad Safary
+  tagline: By JavadYakuza
   actions:
     - theme: brand
       text: CS Basics
