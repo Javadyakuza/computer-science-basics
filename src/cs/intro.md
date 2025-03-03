@@ -4,7 +4,7 @@ This concise documentation aims to provide a foundational understanding of compu
 
 ## Motivation
 
-I am Mohammad Javad Safary, an experienced blockchain developer with over 3 years of expertise in developing blockchain-based solutions for various purposes. As someone who did not have the opportunity to attend college, I understand the challenges of learning computer science without a formal education and the confusion it can cause.
+I am an experienced blockchain developer with over 5 years of expertise in developing blockchain-based solutions for various purposes. As someone who did not have the opportunity to attend college, I understand the challenges of learning computer science without a formal education and the confusion it can cause.
 
 I have compiled this documentation specifically for individuals like myself, in order to reduce confusion and help them focus on their specific goals. While this documentation emphasizes distributed systems, which are closely related to the blockchain domain, it also provides sufficient and efficient coverage of data structures and algorithms.
 
